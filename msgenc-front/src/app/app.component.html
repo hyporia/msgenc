@@ -1,0 +1,4 @@
+<input type="text" [(ngModel)]="msg" placeholder="Введите сообщение тут...">
+<button (click)="onSendMessage()" [disabled]="isLoading">Отправить</button>
+<mat-progress-spinner mode="indeterminate" diameter="20" *ngIf="isLoading"></mat-progress-spinner>
+<p *ngFor="let message of messages">{{message}}</p>
