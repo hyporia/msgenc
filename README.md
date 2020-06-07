@@ -12,4 +12,4 @@ msgenc/msgenc-frontend/ содержит Angular 9 приложение, front-e
 ### Front-end 
 
 Реализован на Angular 9. Для запуска необходимо установить node, npm и angular/cli.
-Команда для запуска: ng serve.
+Команда для запуска: *ng serve*.
