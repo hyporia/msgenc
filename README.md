@@ -1,5 +1,4 @@
 # msgenc
-## Решение тестового задания
 
 msgenc/MessageEncryption/ содержит решение Visual Studio, back-end
 
